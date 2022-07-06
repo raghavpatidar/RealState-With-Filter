@@ -1,0 +1,56 @@
+.listItem-wrap img {
+  width: 100%;
+  border-radius: 10px;
+  height: 200px;
+  object-fit: cover;
+}
+.listItem-wrap header {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 0 1rem 0;
+  align-items: center;
+}
+h2 {
+  display: flex;
+    /* justify-content: space-between; */
+}
+h2 span {
+  font-weight: 300;
+  font-size: large;
+}
+.listItem-wrap header span {
+  font-size: 0.7rem;
+  background-color: #bff1f1;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+.listItem-wrap footer {
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.listItem-wrap footer p:first-child span {
+  color: rgba(0, 0, 0, 0.26);
+  font-weight: 600;
+}
+
+.card {
+  background-color:aliceblue;
+  padding: 0 0% 6% 0%;
+  border-radius: 10px;
+}
+.pd{
+  padding: 0 4% 0 4%;
+}
+i{
+  font-weight: 800;
+  font-size:x-large;
+}
+b{
+  font-size: 1rem;
+  font-weight: 600;
+}
+h1{
+  font-style: italic;
+}

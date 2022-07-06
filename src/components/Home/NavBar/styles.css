@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.searchbar{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem 0 2rem 0 ;
+    font-size: xx-large;
+}
+
+.search{
+    padding: 0 2rem 0 2rem;
+    color: black;
+    /* background-color: black; */
+}

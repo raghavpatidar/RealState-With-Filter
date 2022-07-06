@@ -1,0 +1,24 @@
+.home {
+  display: flex;
+  flex-grow: 0;
+  flex-direction: column;
+  height: 100vh;
+}
+.home_panelList-wrap,
+.home_panel-wrap,
+.home_list-wrap {
+  padding:2rem 0 2rem 0 ;
+  /* overflow: auto; */
+  align-items: center;
+}
+.home_panelList-wrap {
+  display: flex;
+  
+}
+.home_panel-wrap {
+  width: 100%;
+  padding: 0 5rem 0 5rem;
+}
+.home_list-wrap {
+  padding: 1rem;
+}
